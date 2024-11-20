@@ -16,7 +16,7 @@ f) Shebang
 
 g) Arthmetic operation
 
-h) Best practice ides
+h) Best practice IDE's
 
 
 # First Shell Scripting
