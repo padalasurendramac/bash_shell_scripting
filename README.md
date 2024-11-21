@@ -21,7 +21,10 @@
 
 # First Shell Scripting
 - first.sh
-  
+```
+#!bin/bash
+mkdir test
+```
 
 
 
