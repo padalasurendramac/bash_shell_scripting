@@ -2,24 +2,26 @@
 
 ## Objectives
 
-a) What is shell script 
+1) What is shell script 
 
-b) Variables
+2) Variables
 
-c) Control logic
+3) Control logic
 
-d) Loop
+4) Loop
 
-e) Executing a shell script
+5) Executing a shell script
 
-f) Shebang
+6) Shebang
 
-g) Arthmetic operation
+7) Arthmetic operation
 
-h) Best practice IDE's
+8) Best practice IDE's
 
 
 # First Shell Scripting
+
+
 
 
 
