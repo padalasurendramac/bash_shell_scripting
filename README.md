@@ -45,6 +45,8 @@ which ls
 chmod +x first
 ```
 
+[ GitHub pages ] Variables ( ).
+
 
 
 
