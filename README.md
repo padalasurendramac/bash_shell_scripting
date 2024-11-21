@@ -45,7 +45,7 @@ which ls
 chmod +x first
 ```
 
-Variables (https://github.com/padalasurendramac/bash_shell_scripting/blob/65a6a376f0164f3a90dc761b5a3b0a10107d8189/variables/variables.md).
+[Variables] (https://github.com/padalasurendramac/bash_shell_scripting/blob/65a6a376f0164f3a90dc761b5a3b0a10107d8189/variables/variables.md).
 
 
 
